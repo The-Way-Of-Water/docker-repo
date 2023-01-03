@@ -1,0 +1,6 @@
+[submodule "Backend-repo"]
+	path = Backend-repo
+	url = https://github.com/The-Way-Of-Water/Backend-repo.git
+[submodule "Frontend-repo"]
+	path = Frontend-repo
+	url = https://github.com/The-Way-Of-Water/Frontend-repo.git
