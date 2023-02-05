@@ -4,3 +4,6 @@
 [submodule "Frontend-repo"]
 	path = Frontend-repo
 	url = https://github.com/The-Way-Of-Water/Frontend-repo.git
+[submodule "AI-repo"]
+	path = AI-repo
+	url = https://github.com/The-Way-Of-Water/AI-repo.git
